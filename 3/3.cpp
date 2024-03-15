@@ -27,7 +27,8 @@ void swap_call_by_value(int x,int y){
 }
 
 /*
-//call by reference
+//call by reference 
+//run both the parts separately to see the working
 #include<stdio.h>
 void swap_call_by_reference(int*,int*);
 int main(){
