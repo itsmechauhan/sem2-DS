@@ -23,19 +23,19 @@ int main(){
     create();
     transverse();
     
-    // insert_beg();
-    // transverse();
+    insert_beg();
+    transverse();
 
-    // insert_pos();
-    // transverse();
+    insert_pos();
+    transverse();
     
-    // insert_end();
-    // transverse();
+    insert_end();
+    transverse();
     
-    // delete_beg();
-    // transverse();
-    // delete_end();
-    // transverse();
+    delete_beg();
+    transverse();
+    delete_end();
+    transverse();
     delete_pos();
     transverse();
 
